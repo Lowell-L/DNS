@@ -12,4 +12,6 @@ Simulate DNS--NUAA's Computer network experiment
 可以支持在线查询北大、东大等大学的 IP 地址；对于百度、淘宝、哔哩哔哩等商业公司，因其域名存在别名，为实现查询此类域名的 IP 地址。
 
 ## 项目环境
-C/C++ VS2015 Socket
+C/C++
+Socket
+VS2015
